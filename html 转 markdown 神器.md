@@ -22,19 +22,13 @@ markdown 是一款非常强大且语法简洁的标记语言。我们\*\*（特�
 
 ![](https://pic3.zhimg.com/v2-13c02faa4c0764af3eb0ac4be3bf28ac_b.jpg)
 
-  
-
 1.  选择 html 来源的平台。
 
 ![](https://pic1.zhimg.com/v2-a974037627bf93251b18c3b088bd131c_b.png)
 
-  
-
 1.  点击 transform。转换的 markdown 就生成在了右边的框中，并同时复制到了你的剪贴板。
 
 ![](https://picb.zhimg.com/v2-207c91bf7aa5de2fb215a7e273a19e7d_b.jpg)
-
-  
 
 ### **开发环境**
 
@@ -68,19 +62,15 @@ let sitdown = new Sitdown({
 sitdown.use(applyJuejinRule);
 ```
 
-### **搭配 mdnice 使用**
+### **搭配 mdnice 使https://www.mdnice.com/#用**
 
 **[mdnice](https://link.zhihu.com/?target=https%3A//mdnice.com/)**，是一款 markdown 转 html 的神器。markdown 经过它的转换，可以生成各种主题的微信 html 和知乎 html。
 
 ![](https://pic4.zhimg.com/v2-230ed15fb65d429d79f240b47c9fbf48_b.jpg)
 
-  
-
 它直接集成了 sitdown：
 
 ![](https://pic4.zhimg.com/v2-38d7a09cdd57ce916b26fed7e70fb9d0_b.jpg)
-
-  
 
 ![](https://pic1.zhimg.com/v2-2f03805331099f1b1737746089b03d0e_b.jpg)
 
